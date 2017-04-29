@@ -6,7 +6,7 @@ Chinese - 文章导读：<http://www.barretlee.com/blog/2015/11/16/lazyload-comp
 
 Live demo: <http://barretlee.github.io/lazyload/demo/index.html>
 
-### Usage
+### Usage List
 
 Include the lazyload scirpt to your html:
 
